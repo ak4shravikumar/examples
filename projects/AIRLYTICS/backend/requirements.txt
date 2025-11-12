@@ -1,7 +1,0 @@
-pydantic
-fastapi
-uvicorn
-python-dotenv
-mindsdb_sdk
-scipy
-

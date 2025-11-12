@@ -1,9 +1,0 @@
-{
-  "graphs": {
-    "support_agent": "./server_langgraph.py:support_agent"
-  },
-  "dependencies": [
-    "."
-  ],
-  "env": ".env"
-}

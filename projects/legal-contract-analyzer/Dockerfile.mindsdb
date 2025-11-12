@@ -1,3 +1,0 @@
-FROM mindsdb/mindsdb:latest
-
-RUN pip install 'mindsdb[email]' 'mindsdb[dropbox]' 'mindsdb[salesforce]' 'mindsdb[elasticsearch]' 'mindsdb[github]' 'mindsdb[gitlab]' 'mindsdb[notion]' 'mindsdb[snowflake]'
