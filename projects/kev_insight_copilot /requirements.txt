@@ -1,6 +1,0 @@
-streamlit
-mindsdb_sdk
-python-multipart
-PyPDF2
-pandas
-matplotlib
